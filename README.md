@@ -1,6 +1,6 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=mrjay0xj&label=Profile%20views&color=0e75b6&style=flat" alt="mrjay0xj">
+<img align ="right" src="https://komarev.com/ghpvc/?username=furryfoxyofficial&label=Profile%20views&color=0e75b6&style=flat" alt="furryfoxy">
 
-<h1 align="center">Hi 👋, I'm MrJay 0xJ</h1>
+<h1 align="center">Hi 👋, I'm Furry Foxy</h1>
 <h3 align="center">An Computer Engineer and Programmer</h3>
 
 - 🔭 I’m currently working on **My Projects**
